@@ -18,7 +18,7 @@
   <img align="center" alt="Bella-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Bella-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Bella-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="right" alt="Rafa-yoda" src="https://cdn.discordapp.com/attachments/576224101811617815/874755741494444122/ezgif.com-gif-maker.gif">
+  <img align="right" alt="Rafa-yoda" src="https://tenor.com/bpn7P.gif">
 </div>
 
 ##
