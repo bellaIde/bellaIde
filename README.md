@@ -1,6 +1,6 @@
 ## Oi! Eu sou Isabella Moreira Ide
 
-- 📚 Aprendendo Javascript e CSS
+- 📚 Aprendendo Bootstrap e CSS
 - 💻 Estudando CIência da Computação na PUC-SP
 - 🔬 Iniciação cientifica em andamento sobre Deep Learning usando Bi-LSTM :)
 - 😄 Seja Bem-vind@!!!
