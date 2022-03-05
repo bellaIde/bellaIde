@@ -19,7 +19,7 @@
   <img align="center" alt="Bella-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Bella-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Bella-Python" height="30" width"40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
-  <img align="right" alt="Bellas-ghost" src="https://cdn.discordapp.com/attachments/926905409799852072/949499694290202734/download.gif" height="90em">
+  <img align="right" alt="Bellas-ghost" src="https://cdn.discordapp.com/attachments/926905409799852072/949499694290202734/download.gif" height="100em">
 </div>
 
 ##
