@@ -3,6 +3,7 @@
 - 📚 Aprendendo Bootstrap e CSS
 - 💻 Estudando CIência da Computação na UNICID
 - 😄 Seja Bem-vind@!!!
+- 📩 Contate-me por e-mail: isabellamoreiraide@gmail.com
 
 <br />
  <div>
