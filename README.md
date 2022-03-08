@@ -1,6 +1,6 @@
 ## Oi! Eu sou Isabella Moreira Ide
 
-- 📚 Aprendendo Bootstrap e CSS
+- 📚 Aprendendo Bootstrap, CSS e python
 - 💻 Estudando CIência da Computação na UNICID
 - 😄 Seja Bem-vind@!!!
 - 📩 Contate-me por e-mail: isabellamoreiraide@gmail.com
