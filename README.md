@@ -1,7 +1,7 @@
 ## Oi! Eu sou Isabella Moreira Ide
 
 - 📚 Aprendendo JavaScript e python
-- 💻 Estudando CIência da Computação na UNICID
+- 💻 Cursando Sistema da Informação na PUC-Minas
 - 😄 Seja Bem-vind@!!!
 - 📩 Contate-me por e-mail: isabellamoreiraide@gmail.com
 
