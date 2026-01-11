@@ -1,8 +1,8 @@
-## Oi! Eu sou Isabella Moreira Ide
+## 👋 Hi, I'm Isabella
 
-- 📚 Aprendendo JavaScript e python
-- 💻 Cursando Sistema da Informação na PUC-Minas
-- 😄 Seja Bem-vind@!!!
+- 📚 Fullstack developer with love for Front-end and a explorer of the cybersecurity word 🕵🏻‍♀️🔍
+- 💻 Studying Information Systems at PUC- Minas, Brazil
+- 😄 Worked for 3 years in <a href="https://www.cyrela.com.br">Cyrela</a> as 
 - 📩 Contate-me por e-mail: isabellamoreiraide@gmail.com
 
 <br />
