@@ -6,4 +6,4 @@
 - 📩 Contact me: [isabellamoreiraide@gmail.com](mailto:isabellamoreiraide@gmail.com)
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=bellaIde&show_icons=true&theme=radical)
+![Bellas's GitHub stats](https://github-readme-stats.vercel.app/api?username=bellaIde&show_icons=true&theme=radical)
